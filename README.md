@@ -8,7 +8,7 @@ I enjoy so much to get knowledge about everything such as cooking, drawing, Scie
 
 In my "free time" I love to travel at mountains on bike or feet, I enjoy workout at parks, and I like so much swimming, but I don't do this very well.
 
-###  <h2> My favorities tools 🛠 </h2>
+###  <h2> My favorites tools 🛠 </h2>
 
 - SQL Server
 - Python (pandas, NumPy, Matplotlib)
@@ -16,6 +16,7 @@ In my "free time" I love to travel at mountains on bike or feet, I enjoy workout
 - Data Studio
 - Power BI
 - Visual Studio (SSIS)
+- GIT
 
 ###  <h2> What do I want? ✨</h2>
 
