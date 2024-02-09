@@ -21,3 +21,6 @@ In my "free time" I love to travel at mountains on bike or feet, I enjoy workout
 ###  <h2> What do I want? ✨</h2>
 
 I would like to help people to learn about technology, I will do that by sharing my projects and explaining what and how I have done.
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=fabianiniprz1&theme=dark&hide_border=false)<br/>
